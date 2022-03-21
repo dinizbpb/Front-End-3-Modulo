@@ -1,0 +1,53 @@
+/* Estilos da home */
+
+.center {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.container .img1 {
+    max-width: 400px;
+    max-height: 400px;
+    width: auto;
+    height: auto;
+    padding-right: 50px;
+}
+
+.container form {
+    padding-right: 50px;
+}
+
+.texto1 {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+nav li {
+    display: inline;
+    padding: 15px;
+}
+
+nav li a {
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 18px;
+}
+
+
+/*efeito ao passar o mouse o texto mudar de cor no nav*/
+
+nav li a:hover {
+    color: gray;
+}
+
+.fimagem {
+    width: 50px;
+    height: 50px;
+    padding: 20px;
+}
