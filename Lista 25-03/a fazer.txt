@@ -1,0 +1,3 @@
+Descrição: Nesse entregável você deve implementar as rotas do seu projeto. Ao finalizar suba o seu projeto no GitHub e o aqui.
+
+A data limite de entrega é a mesma do dia de liberação da atividade até às 00:00 horas
