@@ -1,0 +1,41 @@
+article{
+      min-height: 26.4em;
+      background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+    form{
+        text-transform: capitalize;
+        color:rgb(250, 244, 244);
+        text-align: center;
+        background-color: rgba(70, 3, 54, 0.589);
+        font-size: 1.3em;
+        border-radius: 3em;
+        margin: auto;
+     }
+    
+    
+ form a{
+     color:rgb(43, 8, 77);
+     text-decoration: none;
+ }
+    
+    input {
+        margin: auto;
+        display: block;
+        height: 3em;
+    
+        border: 1px solid black;
+        border-radius: 10px;
+    }
+    
+
+
+    .btn{
+        background-color: darkmagenta;
+        color: white;
+    }
+
+
+  
