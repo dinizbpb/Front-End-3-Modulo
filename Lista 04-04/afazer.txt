@@ -1,0 +1,4 @@
+Descrição: Nesse entregável você deve implementar o CRUD completo da model Tema. Ao finalizar suba o seu projeto no GitHub e o entregue aqui.
+
+A data limite de entrega é a mesma do dia de liberação da atividade até às 00:00 horas
+
