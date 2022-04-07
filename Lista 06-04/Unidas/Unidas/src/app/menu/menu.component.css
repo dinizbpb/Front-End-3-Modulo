@@ -1,0 +1,19 @@
+
+
+.bgcor{
+    background:radial-gradient(rgb(73, 2, 73),rgb(27, 3, 27),rgb(13, 0, 31));
+}
+
+.bgcorBtn{
+    background:white;
+}
+
+
+
+header{
+    width: 30em;
+}
+
+nav div ul li a{
+color:white;
+}

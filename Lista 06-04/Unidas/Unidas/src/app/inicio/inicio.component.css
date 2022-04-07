@@ -1,0 +1,20 @@
+article{
+
+}
+
+
+
+textarea{
+    resize: none;
+
+}
+
+
+
+
+.inputPostagem{
+    border-radius: 20px;
+    height: 5em;
+    width: 100%;
+    border: 1px solid red;
+}
