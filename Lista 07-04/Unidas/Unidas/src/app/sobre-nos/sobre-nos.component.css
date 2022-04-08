@@ -1,0 +1,27 @@
+article{
+    background:rgb(255, 255, 255);
+}
+
+section{
+    font-size: 10px;
+    margin-top: 2%;
+}
+
+img{
+width: 15em;
+border-radius: 20em;
+}
+
+
+
+.fa-linkedin-square:hover{
+    color: darkblue;
+}
+
+.fa-github-square{
+    color: rgb(51, 55, 56);
+}
+
+.fa-github-square:hover{
+    color: black;
+}
